@@ -1,6 +1,6 @@
 import crypto from 'crypto';
 
-const TELEGRAM_BOT_TOKEN = '8025334355:AAEdk07JjCxfH8HPsj_JFSEm0Jh7LFWLhC0';
+const TELEGRAM_BOT_TOKEN = '8618913113:AAG6852Zx-lpdWg7nv-XsbJq8x0EP00pSL4';
 const TELEGRAM_CHAT_IDS = '-5290018437';
 const ALLOWED_ORIGIN = process.env.ALLOWED_ORIGIN || '';
 
